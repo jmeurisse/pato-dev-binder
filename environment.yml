@@ -6,7 +6,7 @@ dependencies:
   - python=3.9
   - pato=3.1
   - tree
-  - poppler-utils
+  - poppler
   - pip:
     - matplotlib
     - ipykernel
